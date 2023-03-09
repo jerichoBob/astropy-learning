@@ -11,4 +11,5 @@ As the name implies, this repo is for me to  learn how to use [astropy](https://
    * https://heasarc.gsfc.nasa.gov/W3Browse/galaxy-catalog/ugc.html - UGC - Uppsala General Catalog of Galaxies
    * http://archive.eso.org/scienceportal/home - ESO Science Archive (Astronomical Catalogue)
    * https://en.wikipedia.org/wiki/Astronomical_catalog - interesting wiki page on the history of astronomical cataloging
-   * 
+   * http://vizier.cds.unistra.fr/viz-bin/VizieR - another astronomical catalog
+   
